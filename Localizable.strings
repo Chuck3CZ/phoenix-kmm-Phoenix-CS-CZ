@@ -501,61 +501,61 @@
 "invoice created" = "faktura vytvořena";
 
 /* error message */
-"Invoice is expired" = "La factura a expirado";
+"Invoice is expired" = "Faktura vypršela";
 
 /* Currency name: JPY */
-"Japanese Yen" = "Yen japonés";
+"Japanese Yen" = "Japonský jen";
 
 /* No comment provided by engineer. */
 "Keep Control" = "Mantener el control";
 
 /* No comment provided by engineer. */
-"Keep it safe and secret!" = "¡Manténgala segura y secreta!";
+"Keep it safe and secret!" = "Uchovejte to v tajnosti!";
 
 /* No comment provided by engineer. */
-"KEEP THIS SEED SAFE." = "MANTENGA ESTA SEMILLA SEGURA.";
+"KEEP THIS SEED SAFE." = "TENTO SEED UCHOVÁVEJTE BEZPEČNĚ.";
 
 /* Currency name: KRW */
-"Korean Won" = "Won koreano";
+"Korean Won" = "Korejský Won";
 
 /* Transaction Info: Explanation */
-"layer 1 -> 2" = "Capa 1 -> 2";
+"layer 1 -> 2" = "vrstva 1 -> 2";
 
 /* Transaction Info: Explanation */
-"layer 2 -> 1" = "Capa 2 -> 1";
+"layer 2 -> 1" = "vrstva 2 -> 1";
 
 /* App theme option */
-"Light" = "Claro";
+"Light" = "Světlý";
 
 /* Fees explanation */
-"Lightning fees for routing the payment. Payment required %d hops." = "Tarifas de Lightning para enrutar el pago. El pago requirió %d saltos.";
+"Lightning fees for routing the payment. Payment required %d hops." = "Lightning poplatky za směrování platby. Platba vyžadovuje %d skoků.";
 
 /* Fees explanation */
-"Lightning fees for routing the payment. Payment required 1 hop." = "Tarifas de Lightning para enrutar el pago. El pago requirio 1 salto.";
+"Lightning fees for routing the payment. Payment required 1 hop." = "Lightning poplatky za směrování platby. Platba vyžadovuje 1 skok.";
 
 /* Fees explanation */
-"Lightning fees for routing the payment. Payment was divided into %d parts, using %d hops." = "Tarifas de Lightning para enrutar el pago. El pago fue dividido en %d partes, usando %d saltos. ";
+"Lightning fees for routing the payment. Payment was divided into %d parts, using %d hops." = "Lightning poplatky za směrování platby. Platba byla rozdělena na %d částí, použitím %d skoků. ";
 
 /* No comment provided by engineer. */
-"Lightning network" = "Red Lightning";
+"Lightning network" = "Sít Lightning";
 
 /* Navigation bar title */
-"Logs" = "Registros";
+"Logs" = "Protokoly";
 
 /* No comment provided by engineer. */
-"Look at the logs" = "Ver registros";
+"Look at the logs" = "Podívejte se na protokoly";
 
 /* No comment provided by engineer. */
-"Master public key" = "Clave pública maestra";
+"Master public key" = "Hlavní veřejný klíč";
 
 /* Currency name: MXN */
-"Mexican Peso" = "Peso mexicano";
+"Mexican Peso" = "Mexické Peso";
 
 /* No comment provided by engineer. */
-"Modify" = "Modificar";
+"Modify" = "Upravit";
 
 /* No comment provided by engineer. */
-"New Channel (auto-created)" = "Nuevo canal (creado automáticamente)";
+"New Channel (auto-created)" = "Nový kanál (creado automáticamente)";
 
 /* Currency name: NZD */
 "New Zealand Dollar" = "Dólar de Nueva Zelanda";
@@ -606,14 +606,14 @@
 "Pay" = "Pagar";
 
 /* Navigation bar title */
-"Payment channels" = "Canales de pago";
+"Payment channels" = "Platební kanály";
 
 /* No comment provided by engineer. */
-"Payment channels are automatically created when needed." = "Los canales de pago se crean automáticamente cuando es necesario.";
+"Payment channels are automatically created when needed." = "Platební kanály jsou vytvořeny automaticky když jsou potřeba.";
 
 /* CloseChannelsView
    ForceCloseChannelsView */
-"Payment channels are automatically created when you receive payments. Use the **Receive** screen to receive via the Lightning network." = "Los canales de pago se crean automáticamente cuando se reciben pagos. Utilice la opción **Recibir** para recibir a través de la red Lightning.";
+"Payment channels are automatically created when you receive payments. Use the **Receive** screen to receive via the Lightning network." = "Platební kanály jsou vytvořeny automaticky když dostanete platbu. Použijte obrazovku **Receive** screen to receive via the Lightning network.";
 
 /* Label in DetailsView_IncomingPayment */
 "payment hash" = "hash de pago";
@@ -685,13 +685,13 @@
 "reason" = "Razón";
 
 /* Navigation bar title */
-"Receive" = "Recibir";
+"Receive" = "Přijmout";
 
 /* No comment provided by engineer. */
-"RECEIVED" = "RECIBIDO";
+"RECEIVED" = "PŘIJMUTO";
 
 /* Label in DetailsView_IncomingPayment */
-"received at" = "recibido el";
+"received at" = "přijmuto v";
 
 /* Label in DetailsView_IncomingPayment */
 "recipient pubkey" = "Receptor de clave publica";
@@ -721,7 +721,7 @@
 "Russian Ruble" = "Rublo ruso";
 
 /* No comment provided by engineer. */
-"Satoshis are often preferred because it's easier to work with whole numbers rather than fractions." = "A menudo se prefieren los Satoshis porque es más fácil trabajar con números enteros que con fracciones.";
+"Satoshis are often preferred because it's easier to work with whole numbers rather than fractions." = "Satoshi jsou více preferované, jelikož je jednodušší pracovat s celými čísly než se zlomky.";
 
 /* No comment provided by engineer. */
 "Save it somewhere safe (not on this phone). If you lose your seed and your phone, you've lost your funds." = "Guárdelo en un lugar seguro (no en este teléfono). Si pierde su semilla y su teléfono, ha perdido sus fondos.";
@@ -739,7 +739,7 @@
 "See how Phoenix is affected" = "Vea cómo se ve afectado Phoenix";
 
 /* No comment provided by engineer. */
-"Send" = "Enviar";
+"Send" = "Odeslat";
 
 /* Title in DetailsView_IncomingPayment */
 "Send Failed" = "Envío fallido";
@@ -982,7 +982,7 @@
 "Version %@" = "Versión %@";
 
 /* Label in DetailsView_IncomingPayment */
-"via" = "Vía";
+"via" = "Přes";
 
 /* button text */
 "waiting for internet" = "Esperando internet";
@@ -991,13 +991,13 @@
 "Waiting for internet" = "Esperando internet";
 
 /* No comment provided by engineer. */
-"Waiting..." = "Esperando…";
+"Waiting..." = "Čekání...";
 
 /* No comment provided by engineer. */
-"Warning" = "Advertencia";
+"Warning" = "Varování";
 
 /* No comment provided by engineer. */
-"Welcome!" = "¡Bienvenido!";
+"Welcome!" = "Vítejte!";
 
 /* Connection status */
 "Will connect to:" = "Se conectará a:";
@@ -1015,7 +1015,7 @@
 "Would you like to be notified when somebody sends you a payment?" = "¿Le gustaría recibir una notificación cuando alguien le envié un pago?";
 
 /* No comment provided by engineer. */
-"Yes" = "Si";
+"Yes" = "Ano";
 
 /* No comment provided by engineer. */
 "You are responsible for backing up your seed." = "Eres responsable de hacer una copia de seguridad de tu semilla.";
@@ -1028,10 +1028,10 @@
 "You can improve your privacy by only using Tor when connecting to an Electrum server or to your Lightning peer. This will slightly slow down your transactions." = "Puede mejorar su privacidad usando Tor solo cuando se conecta a un servidor Electrum o a la par con Lightning. Esto ralentizará ligeramente sus transacciones.";
 
 /* No comment provided by engineer. */
-"You currenly have 1 Lightning channel with a balance of %@." = "Actualmente tienes 1 canal de Lightning con un saldo de %@.";
+"You currenly have 1 Lightning channel with a balance of %@." = "Aktuálně máte 1 Lightning kanál se zůstatkem %@.";
 
 /* No comment provided by engineer. */
-"You currently don't have any channels that can be closed." = "Actualmente no tienes ningún canal que se pueda cerrar.";
+"You currently don't have any channels that can be closed." = "Aktuálně nemáte žádné kanály, které můžou být uzavřeny.";
 
 /* No comment provided by engineer. */
 "You currently have %@ Lightning channels with an aggragate balance of %@." = "Actualmente tienes %1$@ canales de Lightning con un saldo total de %2$@.";
@@ -1058,10 +1058,10 @@
 "Your payment history is only stored on this device." = "Su historial de pagos solo se almacena en este dispositivo.";
 
 /* No comment provided by engineer. */
-"Your payment history will be stored in iCloud." = "Su historial de pagos se almacenará en iCloud.";
+"Your payment history will be stored in iCloud." = "Vaše historie plateb bude uložena na iCloudu.";
 
 /* Minimum amount description. */
-"Your wallet is empty. The first payment you receive must be at least **%@**." = "Tu billetera está vacía. El primer pago que reciba debe ser de al menos **% @ **.";
+"Your wallet is empty. The first payment you receive must be at least **%@**." = "Vaše peněženka je prázdná. První platba kterou dostanete musí být nejméně **% @ **.";
 
 /* No comment provided by engineer. */
-"Your wallet's seed is a list of 12 english words." = "La semilla de su billetera es una lista de 12 palabras en inglés.";
+"Your wallet's seed is a list of 12 english words." = "Seed vaší peněženky je list 12 anglických slov.";
