@@ -372,7 +372,7 @@
 "Electrum server" = "Electrum server";
 
 /* error message */
-"Enter a valid amount" = "Ingrese una cantidad valida";
+"Enter a valid amount" = "Zadejte platnou hodnotu";
 
 /* error message */
 "Enter an amount" = "Ingrese una cantidad";
