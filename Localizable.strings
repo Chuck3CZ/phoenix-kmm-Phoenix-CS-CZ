@@ -375,10 +375,10 @@
 "Enter a valid amount" = "Zadejte platnou hodnotu";
 
 /* error message */
-"Enter an amount" = "Ingrese una cantidad";
+"Enter an amount" = "Zadejte částku";
 
 /* No comment provided by engineer. */
-"Enter keywords from your seed" = "Ingrese palabras clave de su semilla";
+"Enter keywords from your seed" = "Vložtě klíčová slova ze svého seedu;
 
 /* Label in SummaryInfoGrid */
 "Error" = "Error";
@@ -387,70 +387,70 @@
 "Euro" = "Euro";
 
 /* label text */
-"Expect to receive %d separate payments." = "Espere recibir %d pagos separados.";
+"Expect to receive %d separate payments." = "Doručení očekáváno  %d oddělených platbách.";
 
 /* No comment provided by engineer. */
-"External" = "Externo";
+"External" = "Externí";
 
 /* No comment provided by engineer. */
-"FAILED" = "HA FALLADO";
+"FAILED" = "Neúspěšné";
 
 /* No comment provided by engineer. */
-"FAQ" = "Preguntas frecuentes";
+"FAQ" = "Často kladené dotazy";
 
 /* No comment provided by engineer. */
-"Fee for on-the-fly channel creation:" = "Tarifa por la creación del canal:";
+"Fee for on-the-fly channel creation:" = "Poplatek za vytvoření kanálu za běhu:";
 
 /* No comment provided by engineer. */
-"Fee rate" = "Tasa de tarifa";
+"Fee rate" = "Sazba poplatku";
 
 /* Label in SummaryInfoGrid */
-"Fees" = "Tarifas";
+"Fees" = "Poplatek";
 
 /* No comment provided by engineer. */
-"Fetched %@ item" = "Elemento %@ obtenido";
+"Fetched %@ item" = "Vyzvednuta %@ položka";
 
 /* No comment provided by engineer. */
-"Fetched %@ items" = "Elementos %@ obtenidos";
+"Fetched %@ items" = "Vyzvednuto %@ položek";
 
 /* Navigation bar title */
-"Fiat currency" = "Moneda fiduciaria";
+"Fiat currency" = "Fiat měna";
 
 /* No comment provided by engineer. */
-"For more information, see the FAQ" = "Para más información, consulte las preguntas frecuentes";
+"For more information, see the FAQ" = "Více informací se dozvíte ve FAQ";
 
 /* No comment provided by engineer. */
-"Force close allows you to unilaterally close your channels." = "Forzar cierre le permite cerrar unilateralmente sus canales.";
+"Force close allows you to unilaterally close your channels." = "Vynucené zavření vám umožní jednostranně zavřít kanály.";
 
 /* Navigation bar title */
-"Force close channels" = "Forzar el cierre de canales";
+"Force close channels" = "Vynutit uzavření kanálů";
 
 /* ForceCloseChannelsView */
-"Force closing channels will cost you money (to cover the on-chain fees) and will cause your funds to be locked for days. **Do not uninstall the app until your channels are fully closed or you will lose money.**" = "Forzar el cierre de los canales le costará dinero (para cubrir las tarifas dentro de la cadena) y hará que sus fondos se bloqueen durante días. **No desisntale la aplicación hasta que sus canales estén completamente cerrados o perdera dinero. **";
+"Force closing channels will cost you money (to cover the on-chain fees) and will cause your funds to be locked for days. **Do not uninstall the app until your channels are fully closed or you will lose money.**" = "Vynucené uzavření kanálů vás bude stát peníze (na pokrytí poplatků na on-chainu) a způsobí, že vaše prostředky budou na několik dní zablokovány. **Neodinstalujte aplikaci, dokud nebudou kanály plně uzavřeny, nebo přijdete o své peníze. **";
 
 /* No comment provided by engineer. */
-"Full Screen" = "Pantalla completa";
+"Full Screen" = "Celá obrazovka";
 
 /* No comment provided by engineer. */
-"Funds can be sent to a Bitcoin wallet. Make sure the address is correct before sending." = "Los fondos se pueden enviar a una billetera Bitcoin. Asegúrese de que la dirección sea correcta antes de enviar.";
+"Funds can be sent to a Bitcoin wallet. Make sure the address is correct before sending." = "Finanční prostředky lze poslat do bitcoinové peněženky. Před odesláním se ujistěte, že je adresa správná.";
 
 /* No comment provided by engineer. */
-"Funds sent" = "Fondos enviados";
+"Funds sent" = "Odeslané prostředky";
 
 /* No comment provided by engineer. */
-"Funds will eventually be sent to:" = "Los fondos se enviarán eventualmente a:";
+"Funds will eventually be sent to:" = "Finanční prostředky budou případně zaslány na:";
 
 /* No comment provided by engineer. */
-"General" = "General";
+"General" = "Obecné";
 
 /* No comment provided by engineer. */
-"Generating QRCode..." = "Generando código QR...";
+"Generating QRCode..." = "Generování QR kódu...";
 
 /* No comment provided by engineer. */
-"Get started" = "Empezar";
+"Get started" = "Začít";
 
 /* Currency name: GBP */
-"Great British Pound" = "Libra esterlina";
+"Great British Pound" = "Britská Libra";
 
 /* No comment provided by engineer. */
 "Here you can extract and visualize application logs, as well as share them." = "Aquí puede extraer y visualizar registros de la aplicación, así como compartirlos.";
@@ -462,7 +462,7 @@
 "Hungarian Forint" = "Florín húngaro";
 
 /* No comment provided by engineer. */
-"I understand" = "Entiendo";
+"I understand" = "Rozumím";
 
 /* No comment provided by engineer. */
 "I understand." = "Entiendo.";
@@ -1065,4 +1065,3 @@
 
 /* No comment provided by engineer. */
 "Your wallet's seed is a list of 12 english words." = "La semilla de su billetera es una lista de 12 palabras en inglés.";
-
