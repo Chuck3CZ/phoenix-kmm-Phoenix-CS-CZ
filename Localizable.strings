@@ -453,52 +453,52 @@
 "Great British Pound" = "Britská Libra";
 
 /* No comment provided by engineer. */
-"Here you can extract and visualize application logs, as well as share them." = "Aquí puede extraer y visualizar registros de la aplicación, así como compartirlos.";
+"Here you can extract and visualize application logs, as well as share them." = "Zde můžete extrahovat a zobrazovat protokoly aplikací, a také je sdílet.";
 
 /* Currency name: HKD */
-"Hong Kong Dollar" = "Dólar de Hong Kong";
+"Hong Kong Dollar" = "Hongkongský dolar";
 
 /* Currency name: HUF */
-"Hungarian Forint" = "Florín húngaro";
+"Hungarian Forint" = "Maďarský forint";
 
 /* No comment provided by engineer. */
 "I understand" = "Rozumím";
 
 /* No comment provided by engineer. */
-"I understand." = "Entiendo.";
+"I understand." = "Rozumím.";
 
 /* Currency name: ISK */
-"Icelandic Kròna" = "Kròna islandesa";
+"Icelandic Kròna" = "Islandská koruna";
 
 /* No comment provided by engineer. */
-"If done correctly, self-backup is the most secure option." = "Si se hace correctamente, la auto-copia es la opción mas segura.";
+"If done correctly, self-backup is the most secure option." = "Správně provedená vlastní záloha je nejbezpečnější možností.";
 
 /* ErrorView */
-"If the problem persists, please contact support at **phoenix@acinq.co**." = "Si el problema persiste, comuniquese con soporte en **phoenix@acinq.co**.";
+"If the problem persists, please contact support at **phoenix@acinq.co**." = "Pokud problém přetrvává, kontaktujte prosím podporu e-mailem na adrese **phoenix@acinq.co**.";
 
 /* No comment provided by engineer. */
-"If you switch to a new device (or reinstall the app) then you'll lose your payment history." = "Si cambia a un nuevo dispositivo (o reinstala la aplicación), perderá su historial de pagos.";
+"If you switch to a new device (or reinstall the app) then you'll lose your payment history." = "Pokud měníte zařízení (nebo reinstalujete aplikaci) tak ztratíte svou historii plateb.";
 
 /* No comment provided by engineer. */
-"Import" = "Importar";
+"Import" = "Importovat";
 
 /* Fees explanation */
-"In order to receive this payment, a new payment channel was opened. This is not always required." = "Para recibir este pago un nuevo canal de pago se abrió. Esto no siempre es necesario.";
+"In order to receive this payment, a new payment channel was opened. This is not always required." = "Aby bylo možné tuto platbu přijmout, byl otevřen nový platební kanál. To není vždy nutné.";
 
 /* Currency name: INR */
-"Indian Rupee" = "Rupia india";
+"Indian Rupee" = "Indická rupie";
 
 /* toast warning */
-"Invalid Lightning Request" = "Solicitud Lightning no válida";
+"Invalid Lightning Request" = "Neplatný Lighning požadavek";
 
 /* No comment provided by engineer. */
-"Invalid port. Valid range: [1 - 65535]" = "Puerto inválido. Intervalo válido: [1 - 65535]";
+"Invalid port. Valid range: [1 - 65535]" = "Špatný rozsah portu. Povolený rozsah je [1 - 65535]";
 
 /* No comment provided by engineer. */
-"Invalid server. Use format: domain.tld" = "Servidor inválido. Utilice el formato: domain.tld";
+"Invalid server. Use format: domain.tld" = "Špatný server. Použijte formát: doména.tld";
 
 /* Label in DetailsView_IncomingPayment */
-"invoice created" = "creado el";
+"invoice created" = "faktura vytvořena";
 
 /* error message */
 "Invoice is expired" = "La factura a expirado";
