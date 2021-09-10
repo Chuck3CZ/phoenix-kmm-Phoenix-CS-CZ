@@ -904,91 +904,91 @@
 "Tip timestamp" = "Tip timestamp";
 
 /* No comment provided by engineer. */
-"To fix this re-enable Background App Refresh via: Settings -> General -> Background App Refresh" = "Chcete-li aktualizaci aplikace na pozadí povolte v: Nastavení -> Obecné -> Aktualizace aplikace na pozadí";
+"To fix this re-enable Background App Refresh via: Settings -> General -> Background App Refresh" = "Chcete-li povolit aktualizaci aplikace na pozadí zvolte: Nastavení -> Obecné -> Aktualizace aplikace na pozadí";
 
 /* No comment provided by engineer. */
-"To receive incoming payments, Phoenix must be running, and you must have unlocked the app once." = "Abyste mohli přijímat platby, musí být spuštěna aplikace Phoenix a musí být jednou odemčená.";
+"To receive incoming payments, Phoenix must be running, and you must have unlocked the app once." = "Chcete-li přijímat platby, aplikace Phoenix musí být spuštěna a je nezbytné aplikaci jednou odemčít.";
 
 /* No comment provided by engineer. */
 "To receive incoming payments, Phoenix must be running." = "Abyste mohli přijímat platby, aplikace Phoenix musí být spuštěna.";
 
 /* Informational warning in SendView */
-"To scan a QR code you must give Phoenix permission to access the camera." = "Para escanear un código QR, debe dar permiso a Phoenix para acceder a la cámara.";
+"To scan a QR code you must give Phoenix permission to access the camera." = "Abyste mohli naskenovat QR kód, musíte aplikaci Phoenix udělit přístup k fotoaparátu.";
 
 /* No comment provided by engineer. */
 "Tor" = "Tor";
 
 /* No comment provided by engineer. */
-"Tor is disabled" = "Tor está deshabilitado";
+"Tor is disabled" = "Tor je deaktivován";
 
 /* No comment provided by engineer. */
-"Tor is enabled" = "Tor je zapnutý";
+"Tor is enabled" = "Tor je povolen";
 
 /* Navigation bar title */
-"Tor Settings" = "Nastavení Toru";
+"Tor Settings" = "Tor Nastavení";
 
 /* Label in DetailsView_IncomingPayment */
 "total amount" = "celková částka";
 
 /* No comment provided by engineer. */
-"Try again later" = "Zkuste to později";
+"Try again later" = "Zkuste to znovu později";
 
 /* No comment provided by engineer. */
-"Tx" = "Transacción";
+"Tx" = "Transakce";
 
 /* Label in DetailsView_IncomingPayment */
-"type" = "Tipo";
+"type" = "typ";
 
 /* Label in SummaryInfoGrid */
-"Type" = "Tipo";
+"Type" = "Typ";
 
 /* Currency name: USD */
 "United States Dollar" = "Americký dolar";
 
 /* Connection state */
-"Unknown" = "Desconocida";
+"Unknown" = "Neznámý";
 
 /* Error message - parsing bitcoin address */
-"Unknown Bech32 version" = "Versión desconocida de Bech32";
+"Unknown Bech32 version" = "Neznámý verze Bech32";
 
 /* Error message in LockView */
-"Unknown biometrics" = "Biometría desconocida";
+"Unknown biometrics" = "Neznámá biometrie";
 
 /* Biometrics prompt */
-"Unlock your seed." = "Desbloquea tu semilla";
+"Unlock your seed." = "Odemkněte svůj seed";
 
 /* No comment provided by engineer. */
-"Updating cloud" = "Actualización de la nube";
+"Updating cloud" = "Aktualizace cloudu";
 
 /* No comment provided by engineer. */
-"Uploading payments" = "Subiendo pagos";
+"Uploading payments" = "Odesílání plateb";
 
 /* Explanation for 'Use cellular data' toggle */
-"Uploads can occur over cellular connections." = "Las cargas pueden ocurrir a través de conexiones celulares.";
+"Uploads can occur over cellular connections." = "Nahrávání může probíhat přes mobilní připojení.";
 
 /* Explanation for 'Use cellular data' toggle */
-"Uploads will only occur over WiFi." = "Las cargas solo se realizarán a través de WiFi.";
+"Uploads will only occur over WiFi." = "Nahrávání bude probíhat pouze přes WiFi.";
 
 /* No comment provided by engineer. */
-"Use a custom server" = "Utilice un servidor personalizado";
+"Use a custom server" = "Použít vlastní server";
 
 /* No comment provided by engineer. */
-"Use cellular data" = "Utilizar datos moviles";
+"Use cellular data" = "Použít mobilní data";
 
 /* CloseChannelsView */
-"Use this feature to transfer __all__ your funds to a Bitcoin address." = "Utilice esta función para transferir __todos__ sus fondos a una dirección Bitcoin.";
+"Use this feature to transfer __all__ your funds to a Bitcoin address." = "Pomocí této funkce převeďte __všechny__ své prostředky na bitcoinovou adresu.";
 
 /* No comment provided by engineer. */
-"Version %@" = "Versión %@";
+"Version %@" = "Verze %@";
 
 /* Label in DetailsView_IncomingPayment */
 "via" = "Přes";
 
 /* button text */
-"waiting for internet" = "Esperando internet";
+"waiting for internet" = "čekání na internet";
 
 /* No comment provided by engineer. */
-"Waiting for internet" = "Esperando internet";
+"Waiting for internet" = "Čekání na internet";
 
 /* No comment provided by engineer. */
 "Waiting..." = "Čekání...";
@@ -1000,29 +1000,29 @@
 "Welcome!" = "Vítejte!";
 
 /* Connection status */
-"Will connect to:" = "Připojí se na:";
+"Will connect to:" = "Připojí se k:";
 
 /* No comment provided by engineer. */
-"Will disable cloud syncing" = "Se deshabilitará la sincronización en la nube";
+"Will disable cloud syncing" = "Synchronizace na cloud bude deaktivována";
 
 /* No comment provided by engineer. */
-"Will enable cloud syncing" = "Se habilitará la sincronización en la nube";
+"Will enable cloud syncing" = "Synchronizace na cloud bude povolena";
 
 /* No comment provided by engineer. */
-"With Phoenix, receiving and sending bitcoin is safe, easy, and fast." = "Con Phoenix, recibir y enviar Bitcoins es seguro, rápido y fácil.";
+"With Phoenix, receiving and sending bitcoin is safe, easy, and fast." = "Ve Phoenixu je přijímání a odesílání bitcoinů bezpečné, rychlé a snadné.";
 
 /* No comment provided by engineer. */
-"Would you like to be notified when somebody sends you a payment?" = "¿Le gustaría recibir una notificación cuando alguien le envié un pago?";
+"Would you like to be notified when somebody sends you a payment?" = "Chcete být upozorněni, když vám někdo pošle platbu?";
 
 /* No comment provided by engineer. */
 "Yes" = "Ano";
 
 /* No comment provided by engineer. */
-"You are responsible for backing up your seed." = "Eres responsable de hacer una copia de seguridad de tu semilla.";
+"You are responsible for backing up your seed." = "Jste zodpovědní za vytvoření záložní kopie vašeho seedu.";
 
 /* CloseChannelsView
    ForceCloseChannelsView */
-"You can also use the **Payment Channels** screen to inspect the state of your channels." = "También puede utilizar la opción **Canales de Pago** para inspeccionar el estado de sus canales.";
+"You can also use the **Payment Channels** screen to inspect the state of your channels." = "Ke kontrole stavu svých kanálů můžete také použít obrazovku **Platební kanály**.";
 
 /* No comment provided by engineer. */
 "You can improve your privacy by only using Tor when connecting to an Electrum server or to your Lightning peer. This will slightly slow down your transactions." = "Puede mejorar su privacidad usando Tor solo cuando se conecta a un servidor Electrum o a la par con Lightning. Esto ralentizará ligeramente sus transacciones.";
