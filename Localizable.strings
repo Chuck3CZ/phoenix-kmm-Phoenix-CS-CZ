@@ -904,7 +904,7 @@
 "Tip timestamp" = "Tip timestamp";
 
 /* No comment provided by engineer. */
-"To fix this re-enable Background App Refresh via: Settings -> General -> Background App Refresh" = "Para solucionar esto vuelva a habilitar la actualización de la aplicación en segundo plano a través de: Configuración -> General -> Actualización en segundo plano";
+"To fix this re-enable Background App Refresh via: Settings -> Obecné -> Background App Refresh" = "Para solucionar esto vuelva a habilitar la actualización de la aplicación en segundo plano a través de: Configuración -> General -> Actualización en segundo plano";
 
 /* No comment provided by engineer. */
 "To receive incoming payments, Phoenix must be running, and you must have unlocked the app once." = "Para recibir pagos, Phoenix debe estar ejecutándose y debe haber desbloqueado la aplicación una vez.";
