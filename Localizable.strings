@@ -1025,7 +1025,7 @@
 "You can also use the **Payment Channels** screen to inspect the state of your channels." = "Ke kontrole stavu svých kanálů můžete také použít obrazovku **Platební kanály**.";
 
 /* No comment provided by engineer. */
-"You can improve your privacy by only using Tor when connecting to an Electrum server or to your Lightning peer. This will slightly slow down your transactions." = "Puede mejorar su privacidad usando Tor solo cuando se conecta a un servidor Electrum o a la par con Lightning. Esto ralentizará ligeramente sus transacciones.";
+"You can improve your privacy by only using Tor when connecting to an Electrum server or to your Lightning peer. This will slightly slow down your transactions." = "Své soukromí můžete zlepšit pouze tím, že použijete Tor při připojení k serveru Electrum nebo k vašemu Lightning peeru.";
 
 /* No comment provided by engineer. */
 "You currenly have 1 Lightning channel with a balance of %@." = "Aktuálně máte 1 Lightning kanál se zůstatkem %@.";
@@ -1034,28 +1034,28 @@
 "You currently don't have any channels that can be closed." = "Aktuálně nemáte žádné kanály, které můžou být uzavřeny.";
 
 /* No comment provided by engineer. */
-"You currently have %@ Lightning channels with an aggragate balance of %@." = "Actualmente tienes %1$@ canales de Lightning con un saldo total de %2$@.";
+"You currently have %@ Lightning channels with an aggragate balance of %@." = "Aktuálně máte %1$@ Lightning kanálů s celkovým zůstatkem %2$@.";
 
 /* No comment provided by engineer. */
-"You don't have any payment channels." = "No tienes ningún canal de pago.";
+"You don't have any payment channels." = "Nemáte žádné platební kanály.";
 
 /* No comment provided by engineer. */
-"You have disabled Background App Refresh for this app." = "Ha desactivado la actualización en segundo plano para esta aplicación.";
+"You have disabled Background App Refresh for this app." = "Pro tuto aplikaci jste deaktivovali aktualizaci na pozadí.";
 
 /* No comment provided by engineer. */
-"You have disabled notifications for this app." = "Ha desactivado las notificaciones para esta aplicación.";
+"You have disabled notifications for this app." = "Pro tuto aplikaci jste deaktivovali oznámení.";
 
 /* Error message - scanning lightning invoice */
-"You scanned a bitcoin address. Phoenix currently only supports sending Lightning payments. You can use a third-party service to make the offchain->onchain swap." = "Escaneó una dirección de Bitcoin. Phoenix actualmente solo admite el envío de pagos de Lightning. Puede utilizar un servicio a terceros para realizar el intercambio fuera de la cadena ->dentro de la cadena. ";
+"You scanned a bitcoin address. Phoenix currently only supports sending Lightning payments. You can use a third-party service to make the offchain->onchain swap." = "Naskenovali jste bitcoinovou adresu. Phoenix v současné době podporuje pouze odesílání plateb Lightning. K provedení offchain-> onchain výměny můžete použít službu třetí strany.";
 
 /* Error message - scanning lightning invoice */
-"You've already paid this invoice. Paying it again could result in stolen funds." = "Ya pagó esta factura. Pagarla de nuevo podría resultar en el robo de fondos.";
+"You've already paid this invoice. Paying it again could result in stolen funds." = "Tuto fakturu jste již zaplatili. Opětovné zaplacení může vést ke krádeži finančních prostředků.";
 
 /* No comment provided by engineer. */
-"Your Node ID:" = "Su ID de Nodo:";
+"Your Node ID:" = "ID vašeho uzlu:";
 
 /* No comment provided by engineer. */
-"Your payment history is only stored on this device." = "Su historial de pagos solo se almacena en este dispositivo.";
+"Your payment history is only stored on this device." = "Vaše historie plateb je uložena pouze v tomto zařízení.";
 
 /* No comment provided by engineer. */
 "Your payment history will be stored in iCloud." = "Vaše historie plateb bude uložena na iCloudu.";
