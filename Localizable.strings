@@ -889,19 +889,19 @@
 "This means you will not be able to receive payments when Phoenix is in the background. To receive payments, Phoenix must be open and in the foreground." = "To znamená, že nebudete moci přijímat platby, když je Phoenix na pozadí. Abyste mohli přijímat platby, musí být Phoenix otevřený a v popředí.";
 
 /* No comment provided by engineer. */
-"This means you will not be notified if you receive a payment while Phoenix is in the background." = "Esto significa que no se le notificará si recibe un pago mientras Phoenix está en segundo plano.";
+"This means you will not be notified if you receive a payment while Phoenix is in the background." = "To znamená, že nedostanete upozorněni, pokud je Phoenix na pozadí a vy obdržíte platbu.";
 
 /* No comment provided by engineer. */
-"This seed is invalid and cannot be imported.\n\nPlease try again" = "Esta semilla no es válida y no se puede importar.\n\nInténtalo de nuevo";
+"This seed is invalid and cannot be imported.\n\nPlease try again" = "Tento seed je neplatný a nelze jej importovat.\n\nZkuste to znovu";
 
 /* No comment provided by engineer. */
-"Throughout the app, you can tap on most amounts to toggle between bitcoin and fiat." = "En toda la aplicación, puede alternar entre Bitcoin y fiat las veces que desee. ";
+"Throughout the app, you can tap on most amounts to toggle between bitcoin and fiat." = "V celé aplikaci můžete přepínat mezi bitcoiny a fiatem klepnutím na částku .";
 
 /* Label in DetailsView_IncomingPayment */
-"timestamp" = "Marca de tiempo";
+"timestamp" = "Časová značka";
 
 /* No comment provided by engineer. */
-"Tip timestamp" = "Marca de tiempo";
+"Tip timestamp" = "Tip timestamp";
 
 /* No comment provided by engineer. */
 "To fix this re-enable Background App Refresh via: Settings -> General -> Background App Refresh" = "Para solucionar esto vuelva a habilitar la actualización de la aplicación en segundo plano a través de: Configuración -> General -> Actualización en segundo plano";
@@ -922,16 +922,16 @@
 "Tor is disabled" = "Tor está deshabilitado";
 
 /* No comment provided by engineer. */
-"Tor is enabled" = "Tor está Habilitado";
+"Tor is enabled" = "Tor je zapnutý";
 
 /* Navigation bar title */
-"Tor Settings" = "Ajustes de Tor";
+"Tor Settings" = "Nastavení Toru";
 
 /* Label in DetailsView_IncomingPayment */
-"total amount" = "Cantidad total";
+"total amount" = "celková částka";
 
 /* No comment provided by engineer. */
-"Try again later" = "Inténtalo de nuevo más tarde";
+"Try again later" = "Zkuste to později";
 
 /* No comment provided by engineer. */
 "Tx" = "Transacción";
@@ -943,7 +943,7 @@
 "Type" = "Tipo";
 
 /* Currency name: USD */
-"United States Dollar" = "Dólar de los Estados Unidos";
+"United States Dollar" = "Americký dolar";
 
 /* Connection state */
 "Unknown" = "Desconocida";
