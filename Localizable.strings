@@ -904,13 +904,13 @@
 "Tip timestamp" = "Tip timestamp";
 
 /* No comment provided by engineer. */
-"To fix this re-enable Background App Refresh via: Settings -> General -> Background App Refresh" = "Para solucionar esto vuelva a habilitar la actualización de la aplicación en segundo plano a través de: Configuración -> General -> Actualización en segundo plano";
+"To fix this re-enable Background App Refresh via: Settings -> General -> Background App Refresh" = "Chcete-li aktualizaci aplikace na pozadí povolte v: Nastavení -> Obecné -> Aktualizace aplikace na pozadí";
 
 /* No comment provided by engineer. */
-"To receive incoming payments, Phoenix must be running, and you must have unlocked the app once." = "Para recibir pagos, Phoenix debe estar ejecutándose y debe haber desbloqueado la aplicación una vez.";
+"To receive incoming payments, Phoenix must be running, and you must have unlocked the app once." = "Abyste mohli přijímat platby, musí být spuštěna aplikace Phoenix a musí být jednou odemčená.";
 
 /* No comment provided by engineer. */
-"To receive incoming payments, Phoenix must be running." = "Para recibir pagos, Phoenix debe estar ejecutándose.";
+"To receive incoming payments, Phoenix must be running." = "Abyste mohli přijímat platby, aplikace Phoenix musí být spuštěna.";
 
 /* Informational warning in SendView */
 "To scan a QR code you must give Phoenix permission to access the camera." = "Para escanear un código QR, debe dar permiso a Phoenix para acceder a la cámara.";
