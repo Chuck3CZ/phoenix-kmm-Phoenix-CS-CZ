@@ -140,7 +140,7 @@
 "Authenticate to disable biometrics." = "Přihlášení k deaktivaci biometrie.";
 
 /* No comment provided by engineer. */
-"Automatic Channel Creation" = ""Automatické vytváření kanálů";
+"Automatic Channel Creation" = "Automatické vytváření kanálů";
 
 /* Explanation for 'Randomize upload delays' toggle */
 "Avoids payment correlation using timestamp metadata." = "Vyhněte se korelaci plateb pomocí metadat časových razítek.";
@@ -378,7 +378,7 @@
 "Enter an amount" = "Zadejte částku";
 
 /* No comment provided by engineer. */
-"Enter keywords from your seed" = "Vložtě klíčová slova ze svého seedu;
+"Enter keywords from your seed" = "Vložtě klíčová slova ze svého seedu";
 
 /* Label in SummaryInfoGrid */
 "Error" = "Error";
