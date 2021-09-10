@@ -1000,7 +1000,7 @@
 "Welcome!" = "Vítejte!";
 
 /* Connection status */
-"Will connect to:" = "Se conectará a:";
+"Will connect to:" = "Připojí se na:";
 
 /* No comment provided by engineer. */
 "Will disable cloud syncing" = "Se deshabilitará la sincronización en la nube";
