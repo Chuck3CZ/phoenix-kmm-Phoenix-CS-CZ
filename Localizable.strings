@@ -613,7 +613,7 @@
 
 /* CloseChannelsView
    ForceCloseChannelsView */
-"Payment channels are automatically created when you receive payments. Use the **Receive** screen to receive via the Lightning network." = "Platební kanály jsou vytvořeny automaticky když dostanete platbu. Použijte obrazovku **Receive** screen to receive via the Lightning network.";
+"Payment channels are automatically created when you receive payments. Use the **Receive** screen to receive via the Lightning network." = "Platební kanály jsou vytvořeny automaticky, když dostanete platbu.K přijímání prostřednictvím sítě Lightning použijte obrazovku **Přijmout**.";
 
 /* Label in DetailsView_IncomingPayment */
 "payment hash" = "hash platby";
