@@ -489,7 +489,7 @@
 "Indian Rupee" = "Indická rupie";
 
 /* toast warning */
-"Invalid Lightning Request" = "Neplatný Lighning požadavek";
+"Invalid Lightning Request" = "Neplatný Lightning požadavek";
 
 /* No comment provided by engineer. */
 "Invalid port. Valid range: [1 - 65535]" = "Špatný rozsah portu. Povolený rozsah je [1 - 65535]";
