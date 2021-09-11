@@ -98,7 +98,7 @@
 "Advanced security" = "Pokročilé zabezpečení";
 
 /* No comment provided by engineer. */
-"Amount (optional)" = "Částka (volitelně)";
+"Amount (optional)" = "Částka (volitelné)";
 
 /* error message */
 "Amount exceeds your balance" = "Částka převyšuje váš zůstatek";
