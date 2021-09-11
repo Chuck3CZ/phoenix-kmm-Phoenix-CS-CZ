@@ -11,7 +11,7 @@
 "(completed) of (total)" = "(dokončeno) z (celkem)";
 
 /* Upload progress information */
-"(completed) of (total), pushing batch of (inFlight)" = "(dokončeno) z (celkem), pushing batch of (inFlight)";
+"(completed) of (total), pushing batch of (inFlight)" = "(dokončeno) z (celkem), posílání (inFlight)";
 
 /* No comment provided by engineer. */
 "(derived from your seed)" = "(odvozeno z vašeho seedu)";
@@ -65,13 +65,13 @@
 "+%@ incoming" = "+%@ příchozích";
 
 /* No comment provided by engineer. */
-"1 channel" = "1 canal";
+"1 channel" = "1 kanál";
 
 /* No comment provided by engineer. */
 "A backup phrase is generated, storing all the information needed to restore your Bitcoin funds." = "Bude vytvořena záložní fráze, ve které jsou uloženy všechny informace, které jsou potřebné k obnovení vašich bitcoinových prostředků.";
 
 /* No comment provided by engineer. */
-"A bitcoin can be divided into smaller units. The smallest unit is called a Satoshi, and there are 100 million satoshis in a single bitcoin." = "Bitcoiny je rozdělitelný na menší jednotky. Nejmenší jednotka se nazývá satoshi a v jednom bitcoinu je 100 milionů satoshi.";
+"A bitcoin can be divided into smaller units. The smallest unit is called a Satoshi, and there are 100 million satoshis in a single bitcoin." = "Bitcoin je rozdělitelný na menší jednotky. Nejmenší jednotka se nazývá satoshi a v jednom bitcoinu je 100 milionů satoshi.";
 
 /* No comment provided by engineer. */
 "A random electrum server will be selected on each connection attempt." = "Při každém pokusu o připojení bude vybrán náhodný Electrum server.";
@@ -98,7 +98,7 @@
 "Advanced security" = "Pokročilé zabezpečení";
 
 /* No comment provided by engineer. */
-"Amount (optional)" = "Částka (volitelně)";
+"Amount (optional)" = "Částka (volitelné)";
 
 /* error message */
 "Amount exceeds your balance" = "Částka převyšuje váš zůstatek";
@@ -477,7 +477,7 @@
 "If the problem persists, please contact support at **phoenix@acinq.co**." = "Pokud problém přetrvává, kontaktujte prosím podporu e-mailem na adrese **phoenix@acinq.co**.";
 
 /* No comment provided by engineer. */
-"If you switch to a new device (or reinstall the app) then you'll lose your payment history." = "Pokud měníte zařízení (nebo reinstalujete aplikaci) tak ztratíte svou historii plateb.";
+"If you switch to a new device (or reinstall the app) then you'll lose your payment history." = "Pokud měníte zařízení (nebo reinstalujete aplikaci), ztratíte svou historii plateb.";
 
 /* No comment provided by engineer. */
 "Import" = "Importovat";
