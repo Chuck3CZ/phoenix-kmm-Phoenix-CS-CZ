@@ -71,7 +71,7 @@
 "A backup phrase is generated, storing all the information needed to restore your Bitcoin funds." = "Bude vytvořena záložní fráze, ve které jsou uloženy všechny informace, které jsou potřebné k obnovení vašich bitcoinových prostředků.";
 
 /* No comment provided by engineer. */
-"A bitcoin can be divided into smaller units. The smallest unit is called a Satoshi, and there are 100 million satoshis in a single bitcoin." = "Bitcoiny je rozdělitelný na menší jednotky. Nejmenší jednotka se nazývá satoshi a v jednom bitcoinu je 100 milionů satoshi.";
+"A bitcoin can be divided into smaller units. The smallest unit is called a Satoshi, and there are 100 million satoshis in a single bitcoin." = "Bitcoin je rozdělitelný na menší jednotky. Nejmenší jednotka se nazývá satoshi a v jednom bitcoinu je 100 milionů satoshi.";
 
 /* No comment provided by engineer. */
 "A random electrum server will be selected on each connection attempt." = "Při každém pokusu o připojení bude vybrán náhodný Electrum server.";
