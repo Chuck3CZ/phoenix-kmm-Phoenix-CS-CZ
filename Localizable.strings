@@ -477,7 +477,7 @@
 "If the problem persists, please contact support at **phoenix@acinq.co**." = "Pokud problém přetrvává, kontaktujte prosím podporu e-mailem na adrese **phoenix@acinq.co**.";
 
 /* No comment provided by engineer. */
-"If you switch to a new device (or reinstall the app) then you'll lose your payment history." = "Pokud měníte zařízení (nebo reinstalujete aplikaci), ztratíte svou historii plateb.";
+"If you switch to a new device (or reinstall the app) then you'll lose your payment history." = "Pokud měníte zařízení (nebo reinstalujete aplikaci), tak ztratíte svou historii plateb.";
 
 /* No comment provided by engineer. */
 "Import" = "Importovat";
@@ -489,7 +489,7 @@
 "Indian Rupee" = "Indická rupie";
 
 /* toast warning */
-"Invalid Lightning Request" = "Neplatný Lightning požadavek";
+"Invalid Lightning Request" = "Neplatný Lighning požadavek";
 
 /* No comment provided by engineer. */
 "Invalid port. Valid range: [1 - 65535]" = "Špatný rozsah portu. Povolený rozsah je [1 - 65535]";
@@ -507,7 +507,7 @@
 "Japanese Yen" = "Japonský jen";
 
 /* No comment provided by engineer. */
-"Keep Control" = "Mantener el control";
+"Keep Control" = "Udržujte kontrolu";
 
 /* No comment provided by engineer. */
 "Keep it safe and secret!" = "Uchovejte to v tajnosti!";
