@@ -591,7 +591,7 @@
 "OK" = "OK";
 
 /* No comment provided by engineer. */
-"Only you alone possess this seed. Keep it private." = "Toto osivo vlastníš jen ty sám. Uchovej to v tajnosti.";
+"Only you alone possess this seed. Keep it private." = "Tento seed vlastníš jen ty sám. Uchovej ho v tajnosti.";
 
 /* Label in SummaryInfoGrid */
 "Output" = "Výstup";
@@ -865,7 +865,7 @@
 "This address is derived from your seed and belongs to you." = "Tato adresa je odvozena z vašeho seedu a patří vám.";
 
 /* No comment provided by engineer. */
-"This app is experimental. Please backup your seed. You can report issues to phoenix@acinq.co." = "Tato aplikace je experimentální. Zálohujte prosím své semeno. Problémy můžete nahlásit na phoenix@acinq.co.";
+"This app is experimental. Please backup your seed. You can report issues to phoenix@acinq.co." = "Tato aplikace je experimentální. Zálohujte prosím svůj seed. Problémy můžete nahlásit na phoenix@acinq.co.";
 
 /* Error message - scanning lightning invoice */
 "This doesn't appear to be a Lightning invoice" = "Toto nevypadá jako Lightning faktura";
