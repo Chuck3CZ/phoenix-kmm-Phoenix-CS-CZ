@@ -871,16 +871,16 @@
 "This doesn't appear to be a Lightning invoice" = "Toto nevypadá jako Lightning faktura";
 
 /* ForceCloseChannelsView */
-"This feature is not a \"fix everything magic button\". It is here as a safety measure and **should only be used in extreme scenarios**. For example, if your peer (ACINQ) disappears permanently, preventing you from spending your money. In all other cases, **if you experience issues with Phoenix you should contact support**." = "Tato funkce není \" tlačítko kouzelného opravení \". Je zde jako bezpečnostní opatření a ** by mělo být používáno pouze v extrémních případech **. Pokud například váš peer (ACINQ) trvale zmizí, což vám znemožní utrácení peněz. Ve všech ostatních případech ** pokud máte problémy s Phoenixem, měli byste kontaktovat podporu **.";
+"This feature is not a \"fix everything magic button\". It is here as a safety measure and **should only be used in extreme scenarios**. For example, if your peer (ACINQ) disappears permanently, preventing you from spending your money. In all other cases, **if you experience issues with Phoenix you should contact support**." = "Tato funkce není \" tlačítko kouzelného opravení \". Je zde jako bezpečnostní opatření a ** by mělo být používáno pouze v extrémních případech **. Pokud například váš peer (ACINQ) trvale zmizí, což vám znemožní utrácení peněz. Ve všech ostatních případech, ** pokud máte problémy s Phoenixem, měli byste kontaktovat podporu **.";
 
 /* No comment provided by engineer. */
-"This fee applies when you receive a payment over Lightning and a new channel needs to be created." = "Tento poplatek platí, když obdržíte platbu přes Lightning a je třeba vytvořit nový kanál.";
+"This fee applies when you receive a payment over Lightning and a new channel needs to be created." = "Tento poplatek platí, když obdržíte platbu přes Lightning, a je třeba vytvořit nový kanál.";
 
 /* No comment provided by engineer. */
 "This fee is dynamic, and may change depending on the conditions of the bitcoin network." = "Tento poplatek je dynamický a může se měnit v závislosti na podmínkách bitcoinové sítě.";
 
 /* No comment provided by engineer. */
-"This fee only applies when a new channel needs to be created. Payments that use existing channels don't pay this fee. The fee is dynamic and may change depending on bitcoin network conditions." = "Tento poplatek platí pouze v případě, když je třeba vytvořit nový kanál. Platby využívající stávající kanály tento poplatek neplatí. Poplatek je dynamický a může se měnit v závislosti na podmínkách bitcoinové sítě.";
+"This fee only applies when a new channel needs to be created. Payments that use existing channels don't pay this fee. The fee is dynamic and may change depending on bitcoin network conditions." = "Tento poplatek platí pouze v případě, kdy je třeba vytvořit nový kanál. Platby využívající stávající kanály tento poplatek neplatí. Poplatek je dynamický a může se měnit v závislosti na podmínkách bitcoinové sítě.";
 
 /* No comment provided by engineer. */
 "This is a swap address. It is not controlled by your wallet. On-chain deposits sent to this address will be converted to Lightning channels." = "Toto je adresa pro výměnu. Není kontrolována vaší peněženkou. Vklady On-chain zaslané na tuto adresu budou převedeny na Lightning kanály.";
@@ -889,7 +889,7 @@
 "This means you will not be able to receive payments when Phoenix is in the background. To receive payments, Phoenix must be open and in the foreground." = "To znamená, že nebudete moci přijímat platby, když je Phoenix na pozadí. Abyste mohli přijímat platby, musí být Phoenix otevřený a v popředí.";
 
 /* No comment provided by engineer. */
-"This means you will not be notified if you receive a payment while Phoenix is in the background." = "To znamená, že nedostanete upozorněni, pokud je Phoenix na pozadí a vy obdržíte platbu.";
+"This means you will not be notified if you receive a payment while Phoenix is in the background." = "To znamená, že nedostanete upozornění, pokud je Phoenix na pozadí a vy obdržíte platbu.";
 
 /* No comment provided by engineer. */
 "This seed is invalid and cannot be imported.\n\nPlease try again" = "Tento seed je neplatný a nelze jej importovat.\n\nZkuste to znovu";
@@ -904,10 +904,10 @@
 "Tip timestamp" = "Tip timestamp";
 
 /* No comment provided by engineer. */
-"To fix this re-enable Background App Refresh via: Settings -> General -> Background App Refresh" = "Chcete-li povolit aktualizaci aplikace na pozadí zvolte: Nastavení -> Obecné -> Aktualizace aplikace na pozadí";
+"To fix this re-enable Background App Refresh via: Settings -> General -> Background App Refresh" = "Chcete-li povolit aktualizaci aplikace na pozadí, zvolte: Nastavení -> Obecné -> Aktualizace aplikace na pozadí";
 
 /* No comment provided by engineer. */
-"To receive incoming payments, Phoenix must be running, and you must have unlocked the app once." = "Chcete-li přijímat platby, aplikace Phoenix musí být spuštěna a je nezbytné aplikaci jednou odemčít.";
+"To receive incoming payments, Phoenix must be running, and you must have unlocked the app once." = "Chcete-li přijímat platby, aplikace Phoenix musí být spuštěna a je nezbytné aplikaci jednou odemknout.";
 
 /* No comment provided by engineer. */
 "To receive incoming payments, Phoenix must be running." = "Abyste mohli přijímat platby, aplikace Phoenix musí být spuštěna.";
