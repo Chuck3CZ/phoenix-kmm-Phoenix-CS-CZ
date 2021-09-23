@@ -510,7 +510,7 @@
 "Keep Control" = "Udržujte kontrolu";
 
 /* No comment provided by engineer. */
-"Keep it safe and secret!" = "Uchovejte to v tajnosti!";
+"Keep it safe and secret!" = "Uchovejte tuto frázi v tajnosti!";
 
 /* No comment provided by engineer. */
 "KEEP THIS SEED SAFE." = "TENTO SEED UCHOVÁVEJTE BEZPEČNĚ.";
@@ -609,7 +609,7 @@
 "Payment channels" = "Platební kanály";
 
 /* No comment provided by engineer. */
-"Payment channels are automatically created when needed." = "Platební kanály jsou vytvořeny automaticky když jsou potřeba.";
+"Payment channels are automatically created when needed." = "Platební kanály jsou vytvořeny automaticky pokud jsou vyžadovány.";
 
 /* CloseChannelsView
    ForceCloseChannelsView */
@@ -880,7 +880,7 @@
 "This fee is dynamic, and may change depending on the conditions of the bitcoin network." = "Tento poplatek je dynamický a může se měnit v závislosti na podmínkách bitcoinové sítě.";
 
 /* No comment provided by engineer. */
-"This fee only applies when a new channel needs to be created. Payments that use existing channels don't pay this fee. The fee is dynamic and may change depending on bitcoin network conditions." = "Tento poplatek platí pouze v případě, pokud je potřebna vytvořit nový kanál. Platby využívající stávající kanály tento poplatek neplatí. Poplatek je dynamický a může se měnit v závislosti na podmínkách bitcoinové sítě.";
+"This fee only applies when a new channel needs to be created. Payments that use existing channels don't pay this fee. The fee is dynamic and may change depending on bitcoin network conditions." = "Tento poplatek platí pouze v případě, pokud je potřebné vytvořit nový kanál. Platby využívající stávající kanály tento poplatek neplatí. Poplatek je dynamický a může se měnit v závislosti na podmínkách bitcoinové sítě.";
 
 /* No comment provided by engineer. */
 "This is a swap address. It is not controlled by your wallet. On-chain deposits sent to this address will be converted to Lightning channels." = "Toto je adresa pro výměnu. Není kontrolována vaší peněženkou. Vklady On-chain zaslané na tuto adresu budou převedeny na Lightning kanály.";
