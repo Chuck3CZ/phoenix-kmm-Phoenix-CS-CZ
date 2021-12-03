@@ -33,6 +33,6 @@ Jedná se o bezplatný software s otevřeným zdrojovým kódem, vyvinutý spole
 	<a href="https://github.com/Chuck3CZ/phoenix-kmm-Phoenix-CS-CZ">Českou lokalizaci</a> vytvořil Martin "Chuck3CZ" Gabrhel.
 </p>
 <p>
-	Pokud máte nějaké poznámkyy nebo výhrad k češtine, sdělte to na <a href="https://github.com/Chuck3CZ/phoenix-kmm-Phoenix-CS-CZ/issues"> stránku problémů </a>
+	Pokud máte nějaké poznámky nebo výhrady k češtine, sdělte to na <a href="https://github.com/Chuck3CZ/phoenix-kmm-Phoenix-CS-CZ/issues"> stránku problémů </a>
 </p>
 
