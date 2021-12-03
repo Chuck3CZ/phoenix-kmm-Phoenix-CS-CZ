@@ -23,7 +23,12 @@ Jedná se o bezplatný software s otevřeným zdrojovým kódem, vyvinutý spole
 Více informací o celém projektu na webu <a href="https://acinq.co/"> Acinq.co </a> a na stránkách projektu <a href="https://github.com/ACINQ/phoenix-kmm">GitHub.com</a>
 <br>
 </p>
+
 <p>
 	Máte-li dotazy na aplikaci, obraťte se na <a href="https://phoenix.acinq.co/faq">FAQ</a>.
 	Můžete také <a href="https://phoenix.acinq.co/support">kontaktovat podporu</a> o pomoc.
 </p>
+
+---
+🚧 Phoenix beží na Mainnetu, ale je stále experimentální. Nedávejte si příliž peněz do peněženky. Bezpečně si zálohujte seed ať nepřijdete o své bitcoiny.
+---
