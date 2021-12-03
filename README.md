@@ -5,8 +5,8 @@
 <p>
 	Pokud máte nějaké poznámky nebo výhrady k češtine, sdělte to na <a href="https://github.com/Chuck3CZ/phoenix-kmm-Phoenix-CS-CZ/issues"> stránku problémů </a>
 </p>
-
-
+<br>
+<br>
 
 # O projektu Phoenix:
 
