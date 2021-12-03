@@ -1,6 +1,12 @@
 # phoenix-kmm-Phoenix-CS-CZ
 Česká lokalizace pro peněženku Phoenix
 
+více na <a href="https://github.com/ACINQ/phoenix-kmm">
+<img src="https://github.com/ACINQ/phoenix-kmm/raw/master/.readme/phoenix_text.png" alt="
+GitHub ACINQ">
+</a>
+
+
 
 Jedná se o bezplatný software s otevřeným zdrojovým kódem, vyvinutý společností
 	<a href="https://phoenix.acinq.co">ACINQ</a> v rámci
@@ -16,7 +22,7 @@ Jedná se o bezplatný software s otevřeným zdrojovým kódem, vyvinutý spole
 	Můžete také <a href="https://phoenix.acinq.co/support">kontaktovat podporu</a> o pomoc.
 </p>
 <p>
-	<a href="https://github.com/Chuck3CZ/phoenix-kmm-Phoenix-CS-CZ">Česká lokalizace</a> vytvořena Martinem Gabrhelem
+	<a href="https://github.com/Chuck3CZ/phoenix-kmm-Phoenix-CS-CZ">Českou lokalizaci</a> vytvořil Martin "Chuck3CZ" Gabrhel
 </p>
 <p>
 	Směnné kurzy bitcoinů/fiatů jsou získávány z různých API třetích stran:
