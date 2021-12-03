@@ -1,8 +1,13 @@
-# phoenix-kmm-Phoenix-CS-CZ - Česká lokalizace pro peněženku Phoenix
+# phoenix-kmm-Phoenix-CS-CZ 
+# Česká lokalizace pro peněženku Phoenix
+<p>
+	<a href="https://github.com/Chuck3CZ/phoenix-kmm-Phoenix-CS-CZ">Českou lokalizaci</a> vytvořil Martin "Chuck3CZ" Gabrhel.
+</p>
+<p>
+	Pokud máte nějaké poznámky nebo výhrady k češtine, sdělte to na <a href="https://github.com/Chuck3CZ/phoenix-kmm-Phoenix-CS-CZ/issues"> stránku problémů </a>
 </p>
 
 <a href="https://github.com/ACINQ/phoenix-kmm"><img src="https://github.com/ACINQ/phoenix-kmm/raw/master/.readme/phoenix_text.png" alt="GitHub ACINQ"></a>
-
 
 # O projektu Phoenix:
 
@@ -18,12 +23,3 @@ Více informací o celém projektu na webu <a href="https://acinq.co/"> Acinq.co
 	Máte-li dotazy na aplikaci, obraťte se na <a href="https://phoenix.acinq.co/faq">FAQ</a>.
 	Můžete také <a href="https://phoenix.acinq.co/support">kontaktovat podporu</a> o pomoc.
 </p>
-
-# Překlad 
-<p>
-	<a href="https://github.com/Chuck3CZ/phoenix-kmm-Phoenix-CS-CZ">Českou lokalizaci</a> vytvořil Martin "Chuck3CZ" Gabrhel.
-</p>
-<p>
-	Pokud máte nějaké poznámky nebo výhrady k češtine, sdělte to na <a href="https://github.com/Chuck3CZ/phoenix-kmm-Phoenix-CS-CZ/issues"> stránku problémů </a>
-</p>
-
