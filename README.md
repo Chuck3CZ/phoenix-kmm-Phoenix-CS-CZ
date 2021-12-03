@@ -27,7 +27,7 @@ Více informací o celém projektu na webu <a href="https://acinq.co/"> Acinq.co
 	Máte-li dotazy na aplikaci, obraťte se na <a href="https://phoenix.acinq.co/faq">FAQ</a>.
 	Můžete také <a href="https://phoenix.acinq.co/support">kontaktovat podporu</a> o pomoc.
 </p>
-<br>
+<br>	
 <p>
 	<a href="https://github.com/Chuck3CZ/phoenix-kmm-Phoenix-CS-CZ">Českou lokalizaci</a> vytvořil Martin "Chuck3CZ" Gabrhel.
 </p>
