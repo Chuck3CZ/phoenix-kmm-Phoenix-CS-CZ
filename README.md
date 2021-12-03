@@ -29,13 +29,9 @@ Jedná se o bezplatný software s otevřeným zdrojovým kódem, vyvinutý spole
 	Můžete také <a href="https://phoenix.acinq.co/support">kontaktovat podporu</a> o pomoc.
 </p>
 <p>
-	<a href="https://github.com/Chuck3CZ/phoenix-kmm-Phoenix-CS-CZ">Českou lokalizaci</a> vytvořil Martin "Chuck3CZ" Gabrhel
+	<a href="https://github.com/Chuck3CZ/phoenix-kmm-Phoenix-CS-CZ">Českou lokalizaci</a> vytvořil Martin "Chuck3CZ" Gabrhel.
 </p>
 <p>
-	Směnné kurzy bitcoinů/fiatů jsou získávány z různých API třetích stran:
+	Pokud máte nějaké poznámkyy nebo výhrad k češtine, sdělte to na <a href="https://github.com/Chuck3CZ/phoenix-kmm-Phoenix-CS-CZ/issues"> stránku problémů </a>
 </p>
-<ul>
-	<li>Blockchain.info</li>
-	<li>Bitso</li>
-	<li><a href="https://coindesk.com/price/bitcoin">Powered by Coindesk</a></li>
-</ul>
+
