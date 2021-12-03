@@ -234,19 +234,19 @@
 "Cloud Backup" = "Záloha na Cloudu";
 
 /* No comment provided by engineer. */
-"Cloud sync complete" = "Cloudová synchronizace dokončena";
+"Cloud sync complete" = "Synchronizace s cloudem dokončena";
 
 /* No comment provided by engineer. */
-"Cloud sync disabled" = "Cloudová synchronizace zakázána";
+"Cloud sync disabled" = "Synchronizace s cloudem zakázána";
 
 /* No comment provided by engineer. */
 "Cloud sync error" = "Chyba synchronizace s cloudem";
 
 /* No comment provided by engineer. */
-"Cloud sync initializing" = "Inicializace cloudové synchronizace";
+"Cloud sync initializing" = "Inicializace synchronizace s cloudem";
 
 /* No comment provided by engineer. */
-"Cloud sync paused" = "Cloudová synchronizace pozastavena";
+"Cloud sync paused" = "Synchronizace s cloudem pozastavena";
 
 /* No comment provided by engineer. */
 "Coming Soon" = "Již brzy";
