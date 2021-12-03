@@ -3,9 +3,7 @@
 	Česká lokalizace pro peněženku Phoenix
 </p>
 
-	<a href="https://github.com/ACINQ/phoenix-kmm">
-	
-	<img src="https://github.com/ACINQ/phoenix-kmm/raw/master/.readme/phoenix_text.png" alt="GitHub ACINQ"></a>
+	<a href="https://github.com/ACINQ/phoenix-kmm"><img src="https://github.com/ACINQ/phoenix-kmm/raw/master/.readme/phoenix_text.png" alt="GitHub ACINQ"></a>
 
 
 # O projektu:
