@@ -2,7 +2,7 @@
 "CFBundleName" = "Phoenix";
 
 /* Privacy - Camera Usage Description */
-"NSCameraUsageDescription" = "Phoenix chce použít kameru k naskenování platební žádosti.\n";
+"NSCameraUsageDescription" = "Phoenix chce použít kameru k naskenování platební žádosti.";
 
 /* Privacy - Face ID Usage Description */
 "NSFaceIDUsageDescription" = "Přihlásit se pomocí Face ID.";
