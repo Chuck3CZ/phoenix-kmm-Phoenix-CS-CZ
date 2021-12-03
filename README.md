@@ -1,6 +1,6 @@
 # phoenix-kmm-Phoenix-CS-CZ
 <p>
-	Česká lokalizace pro peněženku Phoenix
+Česká lokalizace pro peněženku Phoenix
 </p>
 
 	<a href="https://github.com/ACINQ/phoenix-kmm"><img src="https://github.com/ACINQ/phoenix-kmm/raw/master/.readme/phoenix_text.png" alt="GitHub ACINQ"></a>
