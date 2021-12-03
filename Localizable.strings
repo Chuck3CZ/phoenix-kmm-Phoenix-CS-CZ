@@ -426,7 +426,7 @@
 "Force close channels" = "Vynutit uzavření kanálů";
 
 /* ForceCloseChannelsView */
-"Force closing channels will cost you money (to cover the on-chain fees) and will cause your funds to be locked for days. **Do not uninstall the app until your channels are fully closed or you will lose money.**" = "Vynucené uzavření kanálů vás bude stát peníze (na pokrytí poplatků na on-chainu) a způsobí, že vaše prostředky budou na několik dní zablokovány. **Neodinstalujte aplikaci, dokud nebudou kanály plně uzavřeny, nebo přijdete o své peníze. **";
+"Force closing channels will cost you money (to cover the on-chain fees) and will cause your funds to be locked for days. **Do not uninstall the app until your channels are fully closed or you will lose money.**" = "Vynucené uzavření kanálů vás bude stát peníze (na pokrytí poplatků na on-chainu) a způsobí, že vaše prostředky budou na několik dní zablokovány. **Nemažte aplikaci, dokud nebudou kanály plně uzavřeny, nebo přijdete o své peníze. **";
 
 /* No comment provided by engineer. */
 "Full Screen" = "Celá obrazovka";
