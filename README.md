@@ -25,9 +25,10 @@ Jedná se o bezplatný software s otevřeným zdrojovým kódem, vyvinutý spole
 </p>
 
 <p>
-	Máte-li dotazy, obraťte se na <a href="https://phoenix.acinq.co/faq">FAQ</a>.
+	Máte-li dotazy na aplikaci, obraťte se na <a href="https://phoenix.acinq.co/faq">FAQ</a>.
 	Můžete také <a href="https://phoenix.acinq.co/support">kontaktovat podporu</a> o pomoc.
 </p>
+<br>
 <p>
 	<a href="https://github.com/Chuck3CZ/phoenix-kmm-Phoenix-CS-CZ">Českou lokalizaci</a> vytvořil Martin "Chuck3CZ" Gabrhel.
 </p>
