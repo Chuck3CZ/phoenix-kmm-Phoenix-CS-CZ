@@ -11,7 +11,7 @@ Jedná se o bezplatný software s otevřeným zdrojovým kódem, vyvinutý spole
 	<a href="https://www.apache.org/licenses/LICENSE-2.0.txt">Apache 2.0 licence</a>.
 </p>
 <p>
-	více informací o celém projektu na:
+	Více informací o celém projektu na:
 	<br>
 	<a href="https://github.com/ACINQ/phoenix-kmm">
 	<img src="https://github.com/ACINQ/phoenix-kmm/raw/master/.readme/phoenix_text.png" alt="
