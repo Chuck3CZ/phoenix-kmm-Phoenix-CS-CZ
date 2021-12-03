@@ -30,5 +30,7 @@ Více informací o celém projektu na webu <a href="https://acinq.co/"> Acinq.co
 </p>
 
 ---
-🚧 Phoenix beží na Mainnetu, ale je stále experimentální. Nedávejte si příliž peněz do peněženky. Bezpečně si zálohujte seed ať nepřijdete o své bitcoiny.
+
+🚧 Přestože Phoenix beží Mainnetu, je stále experimentální. Nedávejte si příliž mincí do peněženky. Bezpečně si zálohujte seed ať nepřijdete o své bitcoiny.
+
 ---
