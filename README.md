@@ -1,5 +1,5 @@
 # phoenix-kmm-Phoenix-CS-CZ
-	Česká lokalizace pro peněženku Phoenix
+Česká lokalizace pro peněženku Phoenix
 	<a href="https://github.com/ACINQ/phoenix-kmm">
 	<img src="https://github.com/ACINQ/phoenix-kmm/raw/master/.readme/phoenix_text.png" alt="
 	GitHub ACINQ">
@@ -8,13 +8,13 @@
 
 # O projektu:
 
-	Jedná se o bezplatný software s otevřeným zdrojovým kódem, vyvinutý společností
+Jedná se o bezplatný software s otevřeným zdrojovým kódem, vyvinutý společností
 	<a href="https://phoenix.acinq.co">ACINQ</a> v rámci
 	<a href="https://www.apache.org/licenses/LICENSE-2.0.txt">Apache 2.0 licence</a>.
 </p>
 <p>
-	Více informací o celém projektu na webu <a href="https://acinq.co/"> Acinq.co </a> a na stránkách projektu <a href="https://github.com/ACINQ/phoenix-kmm">GitHub.com</a>
-	<br>
+Více informací o celém projektu na webu <a href="https://acinq.co/"> Acinq.co </a> a na stránkách projektu <a href="https://github.com/ACINQ/phoenix-kmm">GitHub.com</a>
+<br>
 	
 </p>
 <p>
