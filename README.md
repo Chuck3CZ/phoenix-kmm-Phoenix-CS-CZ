@@ -9,7 +9,10 @@
 <br>
 
 # O projektu Phoenix:
-
+<p>Phoenix je bitcoinová peněženka využívající Lightning síť
+	pro odesílání a přijímání plateb.
+</p>
+<p>
 Jedná se o bezplatný software s otevřeným zdrojovým kódem, vyvinutý společností
 	<a href="https://phoenix.acinq.co">ACINQ</a> v rámci
 	<a href="https://www.apache.org/licenses/LICENSE-2.0.txt">Apache 2.0 licence</a>.
