@@ -1,6 +1,6 @@
 # Česká lokalizace pro peněženku Phoenix
 <p>
-	<a href="https://github.com/Chuck3CZ/phoenix-kmm-Phoenix-CS-CZ">Českou lokalizaci</a> vytvořil <a href="https://github.com/Chuck3CZ/">Martin "Chuck3CZ" Gabrhel</a>.
+🇨🇿 <a href="https://github.com/Chuck3CZ/phoenix-kmm-Phoenix-CS-CZ">Českou lokalizaci</a> vytvořil <a href="https://github.com/Chuck3CZ/">Martin "Chuck3CZ" Gabrhel</a>.
 </p>
 <p>
 	Pokud máte nějaké poznámky nebo výhrady k češtine, sdělte to na <a href="https://github.com/Chuck3CZ/phoenix-kmm-Phoenix-CS-CZ/issues"> stránku problémů </a>
