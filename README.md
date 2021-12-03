@@ -18,12 +18,6 @@ Více informací o celém projektu na webu <a href="https://acinq.co/"> Acinq.co
 	
 </p>
 <p>
-	Upozorňujeme, že tato peněženka je non-custodial:
-	<b>máte výhradní péči o 12 slovný seed této peněženky</b>.
-  	Tento seed nikomu nesdělujte a dejte si pozor na phishing.
-</p>
-
-<p>
 	Máte-li dotazy na aplikaci, obraťte se na <a href="https://phoenix.acinq.co/faq">FAQ</a>.
 	Můžete také <a href="https://phoenix.acinq.co/support">kontaktovat podporu</a> o pomoc.
 </p>
